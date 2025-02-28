@@ -1,3 +1,9 @@
+//Given an array find the number which comes with maximum frequency. It must work in O(n) time complexity.
+
+//Sample Input
+//5
+//1 2 2 2 3
+
 package Assignment9;
 
 import java.util.*;
