@@ -1,3 +1,11 @@
+//Given K sorted arrays each with N elements merge them and output the sorted array
+
+//Sample Input
+//3 4
+//1 3 5 7
+//2 4 6 8
+//0 9 10 11
+
 package Assignment9;
 
 import java.util.*;
