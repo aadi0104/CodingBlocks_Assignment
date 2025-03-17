@@ -32,5 +32,5 @@ public class Highest_Frequency {
 		}
 		System.out.println(maxkey);
 	}
-
+	
 }
